@@ -9,41 +9,41 @@ category_names=["Teachers","Suprise","Sports","Discipline","History"]
 
 # Question/Answer Content
 categories = [
-  # Authors
+  # Teachers
   [
-    ["This person teaches history and football'", "Who is Kieth Hellstern"],
-    ["This person started a multi billion dollar company before Prep'", "Who is Tom Shea?"],
-    ["This person stands in senior lot suring lunch'","Who is Mr. Jones?"],
-    ["This person is the oldest teacher at Prep'", "Who is Dr. Miller?"]
+    ["This person teaches history and football'", "Kieth Hellstern"],
+    ["This person started a multi billion dollar company before Prep'", "Tom Shea"],
+    ["This person stands in senior lot suring lunch'","Mr. Jones"],
+    ["This person is the oldest teacher at Prep'", "Dr. Miller"]
   ],
-  # Mystery
+  # Suprise
   [
-    ["What time dose school end on halfdays","What is 12:30?"],
-    ["who was the old owner of the levee'","who is claudio?"],
-    ["what time is B lunch over?","what is 11:50?"],
-    ["When is \"Presedents holliday\"?", "What superbowl monday?"]
+    ["What time dose school end on halfdays","12:30"],
+    ["who was the old owner of the levee'","claudio"],
+    ["what time is B lunch over?","11:50"],
+    ["When is \"Presedents holliday\"?", "superbowl monday"]
   ],
   
   # Sports
   [
-    ["This person is #30 on the Golden State Warriors.", "Who is Stephen Curry?"],
-    ["This person is refered to as king.", "Who is Lebron James?"],
-    ["This person was a true OKC and was traded to the Warriors in 2016.", "Who is Kevin Durant?"],
-    ["This person has the most points in the history of NBA.", "who is Kareem Abdul-Jabbar?"],
+    ["In what most recent year did Prep win hockey?", "2019"],
+    ["This is the coach of Lacrosse?", "Grahm Neimi"],
+    ["Who's Preps biggest rival", "Ludlowe"],
+    ["What team at Prep holds the most titles", "Hockey"],
   ],
-    # Coding
+    # Discipline 
   [
-    ["This command moves the turtle to a specific spot on the grid.", "What is the goto command?"],
-    ["This command makes you create your own function.", "What is the def command?"],
-    ["This mathematical command only takes the integer part of a float when dividing.", "What is the // command"],
-    ["This command allows you to click on the screen.", "What is the onclick command?"],
+    ["How many Jugs for a skip?", "3"],
+    ["What does jug stand for?", "Justice Under God"],
+    ["How many periods can you skip a day before a note goes home", "1"],
+    ["How many infracions = jug", "3"],
   ],
-    # Vocab
+    # History 
   [
-    ["This word has three double letters in a row and is related to books.", "What is bookkeeper?"],
-    ["This word has starts with a and ends with l and means fake.", "What is artificial?"],
-    ["This word means a problem and starts with a d.", "What is dilemma?"],
-    ["This word means to change constantly and starts with an f and ends with a e.", "What is fickle?"],
+    ["When was prep founded?", "1942"],
+    ["What came first Fairfield U or Fairfield Prep", "Prep"],
+    ["What rapper graduated from Prep?", "Felly"],
+    ["Who founded Prep?", "Society of Jesuits"],
   ]
 ]
 
